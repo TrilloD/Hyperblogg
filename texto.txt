@@ -1,2 +1,3 @@
 HOla MOvimiento Inicial
-Primer movimiento
+Primer movimiento - este movimiento se hace desde Visual studio Code
+2do movimiento desde la caja de texto
